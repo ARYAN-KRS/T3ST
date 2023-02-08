@@ -1,5 +1,5 @@
 pip uninstall urllib3 requests chardet idna certifi -y
 pip install urllib3 requests chardet idna certifi
 $ git clone https://github.com/ARYAN-KRS/T3ST
-$ CD T3ST
+$ cd T3ST
 $ python KRS.py
